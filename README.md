@@ -1,17 +1,23 @@
-## 📘 DLL String Editor (GUI)
+# DLL GUI String Editor
 
-A basic C++ Windows Forms application that allows insertion and deletion of characters in a string, stored as a doubly linked list (DLL).
+A simple Windows Forms C++/CLI application for string manipulation using a doubly linked list.
 
-### 💡 Features
-- Insert characters at any position
-- Delete characters by index
-- Display updated string in GUI
+## Features
+- Insert characters at the end of the string
+- Delete characters by position
+- Visual interface using Windows Forms
 
-### 🛠 Built With
-- C++ / C++ CLI
+## How to Run
+1. Open `dll.gui.sln` in Visual Studio.
+2. Build the project (Ctrl+Shift+B).
+3. Run (F5) to see the GUI window.
+
+## Built With
+- C++/CLI
 - Windows Forms (.NET Framework)
 - Visual Studio
 
----
+## Authors
+- Haneen Ahmed Abd El Kareem
+- Mayas Ayman Alhafiry
 
-Made by Haneen and Mayas as a beginner project for learning GUI and data structures in C++.
