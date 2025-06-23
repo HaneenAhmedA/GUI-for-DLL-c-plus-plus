@@ -1,7 +1,3 @@
-
-
-
-
 /*
  * Names: Mayas ayman alhafiry / Haneen Ahmed Abd El Kareem
  * String Manipulation using Doubly Linked List
