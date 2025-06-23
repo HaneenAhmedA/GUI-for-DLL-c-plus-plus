@@ -4,7 +4,7 @@
 
 /*
  * Names: Mayas ayman alhafiry / Haneen Ahmed Abd El Kareem
- * Task 2: String Manipulation using Doubly Linked List
+ * String Manipulation using Doubly Linked List
  */
 
 
