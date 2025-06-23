@@ -21,3 +21,5 @@ A simple Windows Forms C++/CLI application for string manipulation using a doubl
 - Haneen Ahmed Abd El Kareem
 - Mayas Ayman Alhafiry
 
+![Screenshot 2025-06-23 205343](https://github.com/user-attachments/assets/9c49c9e4-4054-45a9-a4b9-9ae989dc4040)
+![Screenshot 2025-06-23 205407](https://github.com/user-attachments/assets/2f2c6dda-5679-4347-8150-bc5e862ff590)
